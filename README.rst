@@ -8,17 +8,16 @@ Helps to directly login to POS and Log in to configured POS shop to save time wi
 
 Company
 -------
-* `Cybrosys Techno Solutions <https://cybrosys.com/>`__
+* ` Miig Softwareo Solutions <https://www.miigsolution.so/>`__
 
 Credits
 -------
-Developer: V15 Ammu @cybrosys, Contact: odoo@cybrosys.com
-           V16 Archana @cybrosys, Contact: odoo@cybrosys.com
-
+Developer:
+           V16 Archana @Abdishakur, Contact: info@miigsolution.so
 Contacts
 --------
-* Mail Contact : odoo@cybrosys.com
-* Website : https://cybrosys.com
+* Mail Contact : info@miigsolution.so
+* Website : https://www.miigsolution.so
 
 Bug Tracker
 -----------
@@ -26,12 +25,12 @@ Bugs are tracked on GitHub Issues. In case of trouble, please check there if you
 
 Maintainer
 ==========
-.. image:: https://cybrosys.com/images/logo.png
-   :target: https://cybrosys.com
+.. image:: https://www.miigsolution.so/images/logo.png
+   :target: https://www.miigsolution.so
 
 This module is maintained by Cybrosys Technologies.
 
-For support and more information, please visit `Our Website <https://cybrosys.com/>`__
+For support and more information, please visit `Our Website <https://www.miigsolution.so/>`__
 
 Further information
 ===================
